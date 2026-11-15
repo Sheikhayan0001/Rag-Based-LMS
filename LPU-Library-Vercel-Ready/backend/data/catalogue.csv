@@ -1,0 +1,6 @@
+id,title,author,category,shelf,provenance
+lpu-001,Hands-On Machine Learning,Aurelien Geron,Machine Learning,CS / AI / Shelf A3,DEMO ONLY
+lpu-002,Deep Learning,Goodfellow Bengio Courville,Deep Learning,CS / AI / Shelf A4,DEMO ONLY
+lpu-003,Introduction to Algorithms,Cormen et al.,Computer Science,CS / Algorithms / Shelf B1,DEMO ONLY
+lpu-004,Speech and Language Processing,Jurafsky and Martin,NLP,CS / AI / Shelf A5,DEMO ONLY
+lpu-005,Artificial Intelligence: A Modern Approach,Russell and Norvig,Artificial Intelligence,CS / AI / Shelf A2,DEMO ONLY
